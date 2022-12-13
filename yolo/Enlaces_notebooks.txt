@@ -1,0 +1,4 @@
+Optimización de hiperparametros:
+https://colab.research.google.com/drive/18tPLJHx08VWtFDSeqQAKXgy9tDkljlcw?usp=sharing
+Archivo final:
+https://colab.research.google.com/drive/1J8q9fPOYx6TRCwL7_uKZV_fxF-NnzeKh?usp=sharing
